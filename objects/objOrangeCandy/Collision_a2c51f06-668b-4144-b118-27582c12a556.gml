@@ -1,0 +1,2 @@
+/// @description kill player
+scrKillPlayer();
