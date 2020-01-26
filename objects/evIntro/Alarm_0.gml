@@ -12,7 +12,6 @@ if (Count1 > 0)
 if (Count1 == 0)
 {	
 	instance_destroy();
-	instance_create(0,0,evBounce);
 }
 
 

@@ -7,6 +7,8 @@ switch(global.beat)
 		instance_create(0,0,evIntro);
 		scrMakeCircle(680,280,0,36,5,objRedCandy);
 		break;
+	case (64):
+		instance_create(0,0,evBounce);
 
 
 }
